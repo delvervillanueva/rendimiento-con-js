@@ -43,7 +43,7 @@ console.log('nombre', llamar[0]);
 //Indexamos los arreglos, así para cuando queramos ir a buscar un elemento está operación sea lineal y no tenga
 //que dispararse y sea tan demorona la operación. 
 //Acá se realizo el redimiento con la función que construimos "keyBy" 
-//Metodo usando """"   reduce()  """"""
+//Usando el método  """"   reduce()  """"""
 
 
 let product = [];
