@@ -80,3 +80,9 @@ const llamar = product.map(x => ({
 
 console.timeEnd(1);
 console.log('nombre', llamar[0]);
+
+
+
+
+/*Fuente: 
+Nicolás Lindemann - Hola Mundo */
